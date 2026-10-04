@@ -1,2 +1,2 @@
 # SCIT-Projects
-Projects that I have done in Scit
+Fraud Detection Analytics folder
